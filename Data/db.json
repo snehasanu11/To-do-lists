@@ -1,0 +1,36 @@
+{
+  "lists": [
+    {
+      "id": 2,
+      "checked": true,
+      "item": "css"
+    },
+    {
+      "checked": false,
+      "id": 3
+    },
+    {
+      "checked": false,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "reactjs"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "python"
+    },
+    {
+      "checked": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "php"
+    }
+  ]
+}
